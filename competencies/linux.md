@@ -10,9 +10,9 @@ Use curl or wget to interact with rest services.
 
 You can explain basic security on linux.
 
-You know why it's dangerous to use root and sudo.
+You know why it's dangerous to run things as root, or use sudo.
 
-You can write simple scripts that take parameters.
+You can write a simple bash scripts that take parameters.
 
 You can open up a tunnel and use it to hit a remote service from the browser.
 
@@ -20,7 +20,8 @@ You can edit a file in vi, vim, or if you must, emacs, save it, exit, search and
 
 You understand clearly the implications of the chmod command.
 
-You understand what environment variables are, and the many locations and methods they can be set.
+You understand what environment variables are, and the many locations and methods they can be set
+as well as the security implications using them!
 
 ## How do you improve it?
 
